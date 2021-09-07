@@ -1,0 +1,18 @@
+.input-menu {
+  display: flex;
+  padding-left: 10px;
+
+  &-space {
+    width: 150px;
+  }
+
+  &-label {
+    padding-top: 2%;
+    padding-right: 10px;
+    font-size: 14pt;
+  }
+
+  &-select-input {
+    width: 200px;
+  }
+}

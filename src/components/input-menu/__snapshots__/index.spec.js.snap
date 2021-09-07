@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Input Menu Componenet snapshort testing 1`] = `
+<div
+  className="input-menu"
+>
+  <div
+    className="input-menu-label"
+  >
+     
+    test
+     
+  </div>
+  <StateManager
+    className="input-menu-select-input"
+    defaultInputValue=""
+    defaultMenuIsOpen={false}
+    defaultValue={null}
+    onChange={[Function]}
+    options={
+      Array [
+        Object {
+          "label": "test",
+          "value": Object {
+            "code": "test",
+            "name": "test",
+          },
+        },
+      ]
+    }
+  />
+</div>
+`;

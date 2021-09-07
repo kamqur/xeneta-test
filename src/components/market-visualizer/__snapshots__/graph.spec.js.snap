@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Graph Componenet snapshort testing 1`] = `
+<div
+  style={
+    Object {
+      "height": "500px",
+      "paddingTop": "5%",
+      "width": "100%",
+    }
+  }
+>
+  <EChartsReact
+    option={
+      Object {
+        "legend": Object {
+          "data": Array [
+            "Mean",
+            "Low",
+            "High",
+          ],
+        },
+        "responsive": true,
+        "scale": true,
+        "series": Array [
+          Object {
+            "data": Array [
+              1,
+            ],
+            "name": "Mean",
+            "smooth": true,
+            "type": "line",
+          },
+          Object {
+            "data": Array [
+              1,
+            ],
+            "name": "Low",
+            "smooth": true,
+            "type": "line",
+          },
+          Object {
+            "data": Array [
+              1,
+            ],
+            "name": "High",
+            "smooth": true,
+            "type": "line",
+          },
+        ],
+        "tooltip": Object {
+          "trigger": "axis",
+        },
+        "xAxis": Object {
+          "data": Array [
+            "day",
+          ],
+          "type": "category",
+        },
+        "yAxis": Object {
+          "type": "value",
+        },
+      }
+    }
+  />
+</div>
+`;

@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MarketVisualizer Componenet snapshort testing 1`] = `
+<MarketVisualizer
+  currentDestination=""
+  currentOrigin=""
+  dispatch={[Function]}
+  loadingMarketData={Array []}
+  marketData={Array []}
+  marketError={Array []}
+>
+  <div
+    className="Market-visualizer-class-loading"
+  >
+    Loading market data
+  </div>
+</MarketVisualizer>
+`;

@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MainPage component testing snapshort testing 1`] = `
+<MainPage>
+  <div
+    className="App"
+  >
+    <div>
+       Loading ports ... 
+    </div>
+  </div>
+</MainPage>
+`;
